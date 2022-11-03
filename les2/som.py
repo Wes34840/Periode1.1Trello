@@ -6,4 +6,4 @@ verkopen = (boom*appel/pers)
 
 txt = "Dus je hebt {} appels om te verkopen"
 
-print(txt.format(int(verkopen)))
+print(txt.format(int(verkopen))) 
